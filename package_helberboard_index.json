@@ -21,11 +21,7 @@
           "help": {
             "online": ""
           },
-          "boards": [
-            {
-              "name": "Helber Board"
-            },
-          ],
+          "boards": [{"name": "Helber Board"}],
           "toolsDependencies": [
             {
               "packager": "esp32",
