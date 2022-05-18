@@ -3,7 +3,7 @@
     {
       "name": "Helber Learning Board",
       "maintainer": "Helber Indonesia",
-      "websiteURL": "https://github.com/senaalwa/Example/blob/master/package_helberboard.json",
+      "websiteURL": "https://github.com/senaalwa/Example/blob/master/package_helberboard_index.json",
       "email": "sena.alwa10@gmail.com",
       "help": {
         "online": "http://esp32.com"
