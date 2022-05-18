@@ -13,9 +13,9 @@
           "name": "helber-learningboard",
           "architecture": "helber-learningboard",
           "version": "1.0.0",
-          "category": "Helber Board",
+          "category": "Contributed",
           "url": "https://github.com/senaalwa/Example/archive/refs/heads/master.zip",
-          "archiveFileName": "esp32-2.0.3.zip",
+          "archiveFileName": "helberboard.zip",
           "checksum": "SHA-256:7a44ab32a2bfe18a84fd1f75aa1921dae92c6b4a74a2eb4d0c7d479b34996f3b",
           "size": "246542267",
           "help": {
