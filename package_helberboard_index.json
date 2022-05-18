@@ -19,7 +19,7 @@
           "checksum": "SHA-256:2B477465C20782E363BCFD6F10208DB27BB8F6253D5DC59198A89839AF978097",
           "size": "20480",
           "help": {"online": ""},
-          "boards": [{"name": "Helber Board"}],
+          "boards": {"name": "Helber Board"},
           "toolsDependencies": [
             {
               "packager": "esp32",
