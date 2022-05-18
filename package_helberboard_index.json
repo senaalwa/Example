@@ -3,7 +3,7 @@
     {
       "name": "helberboard",
       "maintainer": "Helber Indonesia",
-      "websiteURL": "https://github.com/senaalwa/Example/blob/master/package_helberboard_index.json",
+      "websiteURL": "https://github.com/senaalwa/Example/tree/master/helberboard",
       "email": "sena.alwa10@gmail.com",
       "help": {
         "online": "http://esp32.com"
@@ -18,9 +18,7 @@
           "archiveFileName": "helberboard.zip",
           "checksum": "SHA-256:2B477465C20782E363BCFD6F10208DB27BB8F6253D5DC59198A89839AF978097",
           "size": "20480",
-          "help": {
-            "online": ""
-          },
+          "help": {"online": ""},
           "boards": [{"name": "Helber Board"}],
           "toolsDependencies": [
             {
