@@ -10,14 +10,14 @@
       },
       "platforms": [
         {
-          "name": "Helber Learning Board",
+          "name": "helberboard",
           "architecture": "esp32",
           "version": "1.0.0",
           "category": "Contributed",
           "url": "https://github.com/senaalwa/Example/archive/refs/heads/master.zip",
           "archiveFileName": "helberboard.zip",
-          "checksum": "SHA-256:2B477465C20782E363BCFD6F10208DB27BB8F6253D5DC59198A89839AF978097",
-          "size": "20480",
+          "checksum": "SHA-256:8A0613AC90EEDC326F61923CB2DC5F36D5A6104E964033EEE5B8FE9B0EBBFBFD",
+          "size": "50016256",
           "help": {
             "online": ""
           },
