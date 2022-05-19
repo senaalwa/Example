@@ -2,7 +2,7 @@
   "packages": [
     {
       "name": "helberboard",
-      "maintainer": "Helber Indonesia",
+      "maintainer": "Helber Elektronika Indonesia",
       "websiteURL": "https://github.com/senaalwa/Example/tree/master/helberboard",
       "email": "sena.alwa10@gmail.com",
       "help": {
@@ -30,17 +30,17 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "esp32",
+              "packager": "helberboard",
               "name": "xtensa-esp32-elf-gcc",
               "version": "1.22.0-97-gc752ad5-5.2.0"
             },
             {
-              "packager": "esp32",
+              "packager": "helberboard",
               "name": "esptool_py",
               "version": "3.0.0"
             },
             {
-              "packager": "esp32",
+              "packager": "helberboard",
               "name": "mkspiffs",
               "version": "0.2.3"
             }
